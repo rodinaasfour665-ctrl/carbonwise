@@ -1,0 +1,169 @@
+{
+  "company_id": 1,
+  "company": {
+    "name": "Nile Print & Pack",
+    "sector": "Printing and Packaging",
+    "employees": 85,
+    "location": "Egypt"
+  },
+  "activities": [
+    {
+      "date": "2026-01-15",
+      "type": "fuel_diesel",
+      "quantity": 850,
+      "unit": "L"
+    },
+    {
+      "date": "2026-01-15",
+      "type": "electricity",
+      "quantity": 4200,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-01-15",
+      "type": "natural_gas",
+      "quantity": 620,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-01-15",
+      "type": "car_diesel_average",
+      "quantity": 1800,
+      "unit": "km"
+    },
+    {
+      "date": "2026-02-15",
+      "type": "fuel_diesel",
+      "quantity": 900,
+      "unit": "L"
+    },
+    {
+      "date": "2026-02-15",
+      "type": "electricity",
+      "quantity": 4350,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-02-15",
+      "type": "natural_gas",
+      "quantity": 650,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-02-15",
+      "type": "car_diesel_average",
+      "quantity": 1950,
+      "unit": "km"
+    },
+    {
+      "date": "2026-03-15",
+      "type": "fuel_diesel",
+      "quantity": 920,
+      "unit": "L"
+    },
+    {
+      "date": "2026-03-15",
+      "type": "electricity",
+      "quantity": 4500,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-03-15",
+      "type": "natural_gas",
+      "quantity": 680,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-03-15",
+      "type": "car_diesel_average",
+      "quantity": 2100,
+      "unit": "km"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "fuel_diesel",
+      "quantity": 980,
+      "unit": "L"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "electricity",
+      "quantity": 4650,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "natural_gas",
+      "quantity": 700,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-04-15",
+      "type": "car_diesel_average",
+      "quantity": 2200,
+      "unit": "km"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "fuel_diesel",
+      "quantity": 1000,
+      "unit": "L"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "electricity",
+      "quantity": 4700,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "natural_gas",
+      "quantity": 720,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-05-15",
+      "type": "car_diesel_average",
+      "quantity": 2300,
+      "unit": "km"
+    },
+    {
+      "date": "2026-06-15",
+      "type": "fuel_diesel",
+      "quantity": 1050,
+      "unit": "L"
+    },
+    {
+      "date": "2026-06-15",
+      "type": "electricity",
+      "quantity": 4800,
+      "unit": "kWh"
+    },
+    {
+      "date": "2026-06-15",
+      "type": "natural_gas",
+      "quantity": 740,
+      "unit": "m3"
+    },
+    {
+      "date": "2026-06-15",
+      "type": "car_diesel_average",
+      "quantity": 2400,
+      "unit": "km"
+    },
+    {
+      "date": "2026-05-20",
+      "type": "fuel_diesel",
+      "quantity": 500000,
+      "unit": "L",
+      "is_bad_test_row": true
+    },
+    {
+      "date": "2026-06-20",
+      "type": "electricity",
+      "quantity": -25000,
+      "unit": "kWh",
+      "is_bad_test_row": true
+    }
+  ]
+}

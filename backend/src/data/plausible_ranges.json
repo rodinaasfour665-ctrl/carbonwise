@@ -1,0 +1,38 @@
+{
+  "_note": "Hardcoded plausible monthly quantity ranges per activity type, used by checkRangeOutlier() in validateActivity.js. Anything outside [min, max] gets flagged (not rejected). Based on a small-office/small-workshop SME profile (~18 employees) matching the 'Nile Print & Pack' persona from Section 1.3 of the Implementation Plan. NOTE: electricity min is 1 (not 0) so a genuine zero-usage month gets flagged as implausible for an operating business \u2014 see Sept 3 sync notes.",
+  "electricity": {
+    "min": 1,
+    "max": 20000,
+    "unit": "kWh"
+  },
+  "fuel_diesel": {
+    "min": 0,
+    "max": 3000,
+    "unit": "litre"
+  },
+  "fuel_petrol": {
+    "min": 0,
+    "max": 3000,
+    "unit": "litre"
+  },
+  "fuel_natural_gas": {
+    "min": 0,
+    "max": 50000,
+    "unit": "kWh"
+  },
+  "business_travel_car": {
+    "min": 0,
+    "max": 5000,
+    "unit": "km"
+  },
+  "waste_landfill": {
+    "min": 0,
+    "max": 5000,
+    "unit": "kg"
+  },
+  "waste_recycled": {
+    "min": 0,
+    "max": 5000,
+    "unit": "kg"
+  }
+}

@@ -1,0 +1,101 @@
+[
+  {
+    "id": "elec_uk_grid",
+    "category": "electricity",
+    "unit": "kWh",
+    "factor_kgco2e": 0.13096,
+    "scope": "Scope 2",
+    "source": "UK Gov GHG Conversion Factors 2026, 'UK electricity' > 'Electricity generated' > 'Electricity: UK' (generation-only basis, excludes T&D). Row ID 7_400_4000_5_1",
+    "year": 2026
+  },
+  {
+    "id": "fuel_natural_gas",
+    "category": "fuel",
+    "subcategory": "natural_gas",
+    "unit": "kWh",
+    "factor_kgco2e": 0.18231,
+    "scope": "Scope 1",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Fuels' > 'Gaseous fuels' > 'Natural gas', kWh (Gross CV). Row ID 1_100_1004_6_1",
+    "year": 2026
+  },
+  {
+    "id": "fuel_diesel",
+    "category": "fuel",
+    "subcategory": "diesel",
+    "unit": "litre",
+    "factor_kgco2e": 2.58354,
+    "scope": "Scope 1",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Fuels' > 'Liquid fuels' > 'Diesel (average biofuel blend)', litres. Row ID 1_101_1011_8_1",
+    "year": 2026
+  },
+  {
+    "id": "fuel_petrol",
+    "category": "fuel",
+    "subcategory": "petrol",
+    "unit": "litre",
+    "factor_kgco2e": 2.075,
+    "scope": "Scope 1",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Fuels' > 'Liquid fuels' > 'Petrol (average biofuel blend)', litres. Row ID 1_101_1017_8_1",
+    "year": 2026
+  },
+  {
+    "id": "transport_car_petrol_avg",
+    "category": "transport",
+    "subcategory": "car_petrol_average",
+    "unit": "km",
+    "factor_kgco2e": 0.17411,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Business travel- land' > 'Cars (by size)' > 'Medium car' > Petrol. Row ID 25_301_3054_4_1",
+    "year": 2026
+  },
+  {
+    "id": "transport_car_diesel_avg",
+    "category": "transport",
+    "subcategory": "car_diesel_average",
+    "unit": "km",
+    "factor_kgco2e": 0.17209,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Business travel- land' > 'Cars (by size)' > 'Medium car' > Diesel. Row ID 25_301_3053_4_1",
+    "year": 2026
+  },
+  {
+    "id": "transport_rail_national",
+    "category": "transport",
+    "subcategory": "rail_national",
+    "unit": "km",
+    "factor_kgco2e": 0.03092,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Business travel- land' > 'Rail' > 'National rail', passenger.km. Row ID 25_315_3147_11_1",
+    "year": 2026
+  },
+  {
+    "id": "transport_flight_domestic",
+    "category": "transport",
+    "subcategory": "flight_domestic",
+    "unit": "km",
+    "factor_kgco2e": 0.22928,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Business travel- air' > 'Flights' > 'Domestic, to/from UK' > Average passenger, With RF (radiative forcing included), passenger.km. Row ID 21_316_3160_11_1",
+    "year": 2026
+  },
+  {
+    "id": "waste_landfill_mixed",
+    "category": "waste",
+    "subcategory": "landfill",
+    "unit": "kg",
+    "factor_kgco2e": 0.52058023,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Waste disposal' > 'Refuse' > 'Commercial and industrial waste' > Landfill, tonnes converted to kg (520.58023 / 1000). Row ID 20_507_5313_15_1",
+    "year": 2026
+  },
+  {
+    "id": "waste_recycled_mixed",
+    "category": "waste",
+    "subcategory": "recycled",
+    "unit": "kg",
+    "factor_kgco2e": 0.00465358,
+    "scope": "Scope 3",
+    "source": "UK Gov GHG Conversion Factors 2026, 'Waste disposal' > 'Refuse' > 'Commercial and industrial waste' > Closed-loop (recycling), tonnes converted to kg (4.65358 / 1000). Row ID 20_507_5310_15_1",
+    "year": 2026
+  }
+]
