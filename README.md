@@ -15,6 +15,8 @@ Track emissions, understand true energy costs, simulate reduction scenarios, and
 
 </div>
 
+# presentation 
+https://canva.link/pp0pyiphzwibhfm
 ---
 
 ## 📖 Overview
@@ -39,6 +41,18 @@ Built end-to-end on a demo persona: **Nile Print & Pack**, a Cairo-based printin
 | 🔮 **What-If Simulator** | Instantly re-calculates emissions & costs under hypothetical reductions, with no data written to the database |
 | 🤖 **Grounded Sustainability Assistant** | Chat interface that answers only from the company's real computed data (LLM-optional — falls back to a deterministic engine, never hallucinates) |
 | 📄 **Reports & Export** | Generate a downloadable sustainability report |
+<img width="1210" height="596" alt="image" src="https://github.com/user-attachments/assets/c9fa54bf-b116-46f2-a720-87d069bee2d2" />
+<img width="1223" height="587" alt="image" src="https://github.com/user-attachments/assets/b5e4625f-9ce0-4e3c-90e2-9df4a5306608" />
+<img width="1178" height="551" alt="image" src="https://github.com/user-attachments/assets/306bf4d2-e647-4fe1-8242-1354a3af8455" />
+<img width="1120" height="537" alt="image" src="https://github.com/user-attachments/assets/28a53e7d-23e3-46a2-aa10-845262af353d" />
+<img width="1105" height="542" alt="image" src="https://github.com/user-attachments/assets/2e5156af-2eb1-4dfd-bd76-c318c79955a8" />
+<img width="1097" height="526" alt="image" src="https://github.com/user-attachments/assets/a4070dbf-92da-42d0-9fb5-51f426690a41" />
+
+
+
+
+
+
 
 ---
 
@@ -194,7 +208,8 @@ Runs the full backend suite (`node --test`) covering emissions calculation, cost
 ## 👥 Team — EcoVision
 
 Built by the EcoVision team as a hackathon project, with feature ownership spanning the calculation engine, cost engine, recommendation engine, dynamic action plan, smart ingestion, executive dashboard, and the grounded AI assistant.
-
+Rodina Sabry      Nouran Nasser
+Tasneem Ahmed     Nourhan Ahmed
 ---
 
 ## 📄 License
