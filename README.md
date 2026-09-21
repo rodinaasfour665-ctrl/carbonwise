@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 CarbonWise
+# 🌱  CarbonWise
 
 **A carbon accounting & sustainability intelligence platform for SMEs**
 
